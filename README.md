@@ -1,6 +1,6 @@
 # hello-world
-First repository
+
 Hi humans!
 
-Very new on GitHub. I like Pizza 
-Like chocolate cake too.
+Very new on GitHub. I like Pizza.
+I like chocolate cake too.
